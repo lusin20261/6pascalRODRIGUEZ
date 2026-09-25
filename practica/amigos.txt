@@ -1,0 +1,10 @@
+1: blanca
+2: ale
+3: cony 
+4: vic
+5: ari
+6: vale
+7: kris
+8: vale.c 
+9: marlon
+10: alexis

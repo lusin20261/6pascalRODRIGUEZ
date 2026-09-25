@@ -1,0 +1,4 @@
+1: ordenar mi cuarto
+2: lavar mi ropa 
+3: limpiar mi casa
+4: hacer mis tareas

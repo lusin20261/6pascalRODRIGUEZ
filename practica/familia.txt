@@ -1,0 +1,6 @@
+1: mamá
+2: papá
+3: hermana
+4: hermano
+5: abuelo
+6: tio
