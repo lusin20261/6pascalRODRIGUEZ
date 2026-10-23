@@ -1,0 +1,8 @@
+t = input("Escribe tu nombre muy pro: ")
+e = input("Escribe tu comida favorita: ")
+a = input("Escribe tu pelicula favorita: ")
+m = input("Escribe tu color favorito: ")
+o = input("Escribe tu fruta favotita: ")
+print("olaa",t,"a ti te gusta comer",e)
+print("tambien te gusta ver",a,"este es tu color fav",m)
+print("y tu fruta favorita es",o)
